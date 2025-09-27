@@ -1,5 +1,5 @@
 import { QRCodeCanvas, QRCodeSVG } from "qrcode.react";
-import { useRef } from "react";
+
 export default function QRPreview({
   text,
   size,

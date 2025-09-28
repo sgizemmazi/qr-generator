@@ -1,4 +1,4 @@
-# QR Code Generator
+# 🤳🏼 QR Code Generator
 
 Basit ve kullanışlı bir QR Code üretici. URL veya metin girerek QR oluşturabilirsiniz.
 
